@@ -65,5 +65,10 @@ namespace _01_Laboratory_Exercise_1_YunosA
 
             cmbProgram.SelectedIndex = -1;
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
