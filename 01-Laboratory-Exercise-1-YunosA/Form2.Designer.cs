@@ -161,10 +161,10 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::_01_Laboratory_Exercise_1_YunosA.Properties.Resources.b3bed7f050b59926efe9388150271107_removebg_preview;
-            this.pictureBox1.Location = new System.Drawing.Point(491, 212);
+            this.pictureBox1.Location = new System.Drawing.Point(511, 218);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(469, 467);
-            this.pictureBox1.TabIndex = 11;
+            this.pictureBox1.TabIndex = 12;
             this.pictureBox1.TabStop = false;
             // 
             // Form2
